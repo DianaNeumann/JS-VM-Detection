@@ -1,5 +1,5 @@
 ## [DEMO](https://diananeumann.github.io/JS-VM-Detection/index.html)
-
+***
 ### VMs detection
 
 Возможности WebGL позволяют узнать вендора и модель видеокарты, при этом использование виртуальных машин будет оставлять характерные записи "VMWare" / "Virtual Graphics Adapter".
